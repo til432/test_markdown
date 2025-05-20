@@ -49,6 +49,7 @@
 - optimale Verbindung als Lückenschluss zwischen den Räumen Wolfsburg/ Gifhorn/Braunschweig und Lüneburg/Hamburg
 - zusätzliche Verbindung der Wirtschaftsräume in Süd- und Ost-Deutschland mit der Nordsee, sowie nach Skandinavien
 - Verminderung der Umweltbelastung im nachgeordneten Netz durch verlagerte Verkehre
+- signifikante Steigerung der Verkehrssicherheit im Kontrast zum Verkehr auf der Landstraße
 
 ## Mögliche negative Folgen
 
