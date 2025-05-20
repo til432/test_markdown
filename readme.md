@@ -60,7 +60,7 @@
 	- des Weiteren wird ein Großsäugerfunktionsraum durchfahren
 	- ein Weiterer unzerschnittenen verkehrsarmen Räumen (UZVR) wird im Bereich von Heideflächen räumlich getrennt
 - Hemmung der Entwicklung zukunftsfähiger Mobilität in der Region, da Geld an anderer Stelle dringend benötigt wird
-- durch die prognostizierten induzierte Vekehre wird sich die Umweltbelastung erhöhen
+- durch die prognostizierten induzierte Vekehre wird sich die klimarelavante Umweltbelastung erhöhen
 
 
 
