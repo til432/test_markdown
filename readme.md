@@ -62,6 +62,8 @@
 - Hemmung der Entwicklung zukunftsfähiger Mobilität in der Region, da Geld an anderer Stelle dringend benötigt wird
 - durch die prognostizierten induzierte Vekehre wird sich die klimarelavante Umweltbelastung erhöhen
 
+[Quelle Prins](https://www.bvwp-projekte.de/strasse/A39-G10-NI/A39-G10-NI.html)
+
 
 
 
