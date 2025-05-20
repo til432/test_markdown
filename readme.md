@@ -21,8 +21,8 @@
 
 | Kostenbestandteile                                                      | [Mio. €] | Kosten Dritter  | [Mio. €] |
 |------------------------------------------------------------------------|----------|-------------------------|
-| Gesamtprojektkosten (Bruttokosten ohne Planungskosten, Preisstand 2014) | 1.083,1  | -      |
-| Ausbau-/Neubaukosten (Bruttokosten ohne Planungskosten, Preisstand 2014)| 1.051,6  | davon  |
+| Gesamtprojektkosten (Bruttokosten ohne Planungskosten, Preisstand 2014) | 1.083,1  | -      | - |
+| Ausbau-/Neubaukosten (Bruttokosten ohne Planungskosten, Preisstand 2014)| 1.051,6  | davon  | - |
 |                                                                  		  |       	 | Länder       | 0,0 |
 |                                                               	      |          | Kommunen | 0,0 |
 |                                                          				  |          | Deutsche Bahn | 0,0 |
