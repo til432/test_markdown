@@ -19,18 +19,18 @@
 |Dringlichkeitseinstufung 	| Vordringlicher Bedarf (VB)|
 |--------------------------|----------------------------|
 
-| Kostenbestandteile                                                      | [Mio. €] | Kosten Dritter  | [Mio. €] |
-|------------------------------------------------------------------------|----------|-------------------------|
-| Gesamtprojektkosten (Bruttokosten ohne Planungskosten, Preisstand 2014) | 1.083,1  | -      | - |
-| Ausbau-/Neubaukosten (Bruttokosten ohne Planungskosten, Preisstand 2014)| 1.051,6  | davon  | - |
-|   -                                                              		  |    -  	 | Länder       | 0,0 |
-|   -                                                           	      |    -     | Kommunen | 0,0 |
-|   -                                                      				  |    -     | Deutsche Bahn | 0,0 |
-|   -                                                            		  |    -     | Sonstige | 0,0 |
-|   -                                                      				  |    -     |   Summe Dritter | 0,0 |
-| Erhaltungs- bzw. Ersatzkosten (Bruttokosten ohne Planungskosten, Preisstand 2014) | 31,5     | - | - |
-| Haushaltsrelevante Projektkosten BVWP (Bruttogesamtprojektkosten abzüglich Kosten Dritter und abzüglich Erhaltungskosten, Preisstand 2014) | 1.051,6  | -  | - |
-| Bewertungsrelevante Ausbau-/Neubaukosten (Nettokosten, inkl. Planungskosten, Preisstand 2012) | 995,5    | - | - |
+| Kostenbestandteile                                                                                  | [Mio. €] | Kosten Dritter      | [Mio. €] |
+|------------------------------------------------------------------------------------------------------|----------|----------------------|----------|
+| Gesamtprojektkosten (Bruttokosten ohne Planungskosten, Preisstand 2014)                              | 1.083,1  | -                    | -        |
+| Ausbau-/Neubaukosten (Bruttokosten ohne Planungskosten, Preisstand 2014)                             | 1.051,6  | davon                |          |
+|                                                                  |          | Länder               | 0,0      |
+|                                                                  |          | Kommunen             | 0,0      |
+|                                                               |          | Deutsche Bahn        | 0,0      |
+|                                                                    |          | Sonstige             | 0,0      |
+|                                                              |          | Summe Dritter        | 0,0      |
+| Erhaltungs- bzw. Ersatzkosten (Bruttokosten ohne Planungskosten, Preisstand 2014)                    | 31,5     | -                    | -        |
+| Haushaltsrelevante Projektkosten BVWP (Gesamtprojektkosten - Drittkosten - Erhaltung, Preisstand 2014)| 1.051,6  | -                    | -        |
+| Bewertungsrelevante Ausbau-/Neubaukosten (Nettokosten, inkl. Planungskosten, Preisstand 2012)        | 995,5    | -                    | -        |
 
 
 
